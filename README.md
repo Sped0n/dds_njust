@@ -1,6 +1,6 @@
 # dds_njust
 
-南理工数字系统综合实验实验代码
+南理工数字系统综合实验实验代码/实验报告
 
 开发版参考文档：https://e-elements.readthedocs.io/zh/ego1_v2.2/EGo1.html
 
